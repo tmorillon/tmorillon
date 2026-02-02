@@ -10,6 +10,7 @@
 ### 📊 Quantitative Finance
 
 - **Farsight Digital Labs** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
+
 &nbsp;
 
 ### 🤖 AI Projects
