@@ -2,6 +2,7 @@
 
 ## Finance Professor | Developer | Quantitative Systems & AI Applications
 <br>
+
 ## 🌐 Web & Portfolio
 
 - **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
@@ -10,7 +11,7 @@
 ## 📊 Quantitative Finance
 
 - **Farsight Digital Labs** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
-
+<br>
 
 
 ## 🤖 AI Projects
@@ -18,12 +19,12 @@
 - **AI Educational for Children App** 🔒 - Youth Educational AI tool
 - **Grading App** 🔒 - Automated grading system for finance courses
 - **NightWatch Agent** 🔒 - Moltbook agent for managing agent community discussions
-
+<br>
 
 ## 🛠️ Infrastructure & DevOps
 
 - **Raspberry Pi Deployment** 🔒 - Self-hosted services and home lab configuration
-
+<br>
 
 ## 💡 About
 
