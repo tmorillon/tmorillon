@@ -2,9 +2,9 @@
 
 Finance Professor | Developer | Quantitative Systems & AI Applications
 
-### 🌐 Web & Portfolio
+## 🌐 Web & Portfolio
 
-- **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)** - Professional site
+- **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
 
 
 ## 📊 Quantitative Finance
