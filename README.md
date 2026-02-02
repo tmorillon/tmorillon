@@ -4,8 +4,7 @@
 
 ## 🌐 Web & Portfolio
 
-- **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
-<br>
+- **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**  <br>
 
 ## 📊 Quantitative Finance
 
