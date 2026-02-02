@@ -6,12 +6,10 @@
 ### 🌐 Web & Portfolio
 
 - **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
-<br>
 
 ### 📊 Quantitative Finance
 
 - **Farsight Digital Labs** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
-<br>
 
 
 ### 🤖 AI Projects
