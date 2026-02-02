@@ -14,19 +14,19 @@
 <br>
 
 
-## 🤖 AI Projects
+### 🤖 AI Projects
 
 - **AI Educational for Children App** 🔒 - Youth Educational AI tool
 - **Grading App** 🔒 - Automated grading system for finance courses
 - **NightWatch Agent** 🔒 - Moltbook agent for managing agent community discussions
 <br>
 
-## 🛠️ Infrastructure & DevOps
+### 🛠️ Infrastructure & DevOps
 
 - **Raspberry Pi Deployment** 🔒 - Self-hosted services and home lab configuration
 <br>
 
-## 💡 About
+### 💡 About
 
 Finance professor building AI-powered tools and quantitative systems. My projects span trading infrastructure, education technology, and self-hosted deployments. 
 
