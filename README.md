@@ -1,8 +1,8 @@
 # Hi, I'm Dr. Thibaut Morillon 👋
 
 ## Finance Professor | Developer | Quantitative Systems & AI Applications
-<br>
 
+<br>
 ## 🌐 Web & Portfolio
 
 - **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
