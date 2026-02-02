@@ -3,12 +3,12 @@
 
 ## Finance Professor | Developer | Quantitative Systems & AI Applications 
 
-## 🌐 Web & Portfolio
+### 🌐 Web & Portfolio
 
 - **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
 <br>
 
-## 📊 Quantitative Finance
+### 📊 Quantitative Finance
 
 - **Farsight Digital Labs** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
 <br>
