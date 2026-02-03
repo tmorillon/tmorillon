@@ -31,6 +31,9 @@
 I develop AI-powered tools and quantitative systems. My projects span trading infrastructure, education technology, and self-hosted deployments. 
 
 ---
-📫 **Connect:** [Email](mailto:tmorillon@elon.edu) | [LinkedIn]([url](https://www.linkedin.com/in/thibaut-morillon-60374946/)) 
+📫 **Connect:** [Email](mailto:tmorillon@elon.edu) | [LinkedIn](https://www.linkedin.com/in/thibaut-morillon-60374946/) 
 🎓 **Academic:** [University Profile]([url](https://www.elon.edu/u/directory/profile/tmorillon/))  
 💼 **Professional:** [Strategic Advisory Partners]([url]([https://strategicadvisorypartners.com/thibaut-morillon/](https://strategicadvisorypartners.com/thibaut-morillon/)))
+📫 **Connect:** Email](mailto:tmorillon@elon.edu)|[LinkedIn](url(https://www.linkedin.com/in/thibaut-morillon-60374946/) | [  
+🎓 **Academic:** [University Profile]([url](https://www.elon.edu/u/directory/profile/tmorillon/))  
+💼 **Fund Management:** [Professional Profile](url)
