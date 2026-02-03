@@ -18,7 +18,7 @@
 
 - **AI for Kids** 🔒 - Youth Educational AI tool
 - **Alpha Grader** 🔒 - Automated grading system for finance courses
-- **NightWatch Agent** 🔒 - Moltbook agent for managing agent community discussions
+- **NightWatch Agent** 🔒 - Moltbook agent for agent community discussions
 
 
 ### 🛠️ Infrastructure & DevOps
