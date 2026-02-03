@@ -5,7 +5,7 @@
 
 ### 🌐 Web & Portfolio
 
-- **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
+- **[Personal Website](https://tmorillon.github.io)**
 - **[University Profile](https://www.elon.edu/u/directory/profile/tmorillon/)**
 
 
