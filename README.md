@@ -6,6 +6,7 @@
 ### 🌐 Web & Portfolio
 
 - **[Personal Website](https://github.com/tmorillon/tmorillon.github.io)**
+- **[University Profile]([link](https://www.elon.edu/u/directory/profile/tmorillon/))**
 
 
 ### 📊 Quantitative Finance
@@ -27,7 +28,10 @@
 
 ### 💡 About
 
-Finance professor building AI-powered tools and quantitative systems. My projects span trading infrastructure, education technology, and self-hosted deployments. 
+I develop AI-powered tools and quantitative systems. My projects span trading infrastructure, education technology, and self-hosted deployments. 
 
 ---
-📫 Connect: [Email](mailto:tmorillon@elon.edu) | [LinkedIn](https://www.linkedin.com/in/thibaut-morillon-60374946/) 
+📫 Connect: [Email](mailto:tmorillon@elon.edu) | [LinkedIn](https://www.linkedin.com/in/thibaut-morillon-60374946/)
+📫 **Connect:** [LinkedIn]([url](https://www.linkedin.com/in/thibaut-morillon-60374946/)) | [Email](mailto:tmorillon@elon.edu)  
+🎓 **Academic:** [University Profile]([url](https://www.elon.edu/u/directory/profile/tmorillon/))  
+💼 **Professional:** [Strategic Advisory Partners]([url]([https://strategicadvisorypartners.com/thibaut-morillon/](https://strategicadvisorypartners.com/thibaut-morillon/)))
