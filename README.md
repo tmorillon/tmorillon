@@ -16,8 +16,8 @@
 
 ### 🤖 AI Projects
 
-- **AI Educational for Children App** 🔒 - Youth Educational AI tool
-- **Grading App** 🔒 - Automated grading system for finance courses
+- **AI for Kids** 🔒 - Youth Educational AI tool
+- **Alpha Grader** 🔒 - Automated grading system for finance courses
 - **NightWatch Agent** 🔒 - Moltbook agent for managing agent community discussions
 
 
