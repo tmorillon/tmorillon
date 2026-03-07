@@ -11,20 +11,20 @@
 
 ### 📊 Quantitative Finance
 
-- **Farsight Digital Labs** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
+- **[Farsight Digital Labs](https://github.com/tmorillon/FarSight-Digital-core)** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
 - **[Polymarket Insider Tracker](https://github.com/tmorillon/Polymarket-insider-tracker)** 🔒 - Prediction market whale tracking dashboard. Monitor top wallets and positions to identify insider patterns.
 
 
 ### 🤖 AI Projects
 
-- **AI for Kids** 🔒 - Youth Educational AI tool
-- **Alpha Grader** 🔒 - Automated grading system for finance courses
-- **NightWatch Agent** 🔒 - Moltbook agent for agent community discussions
+- **[AI for Kids](https://github.com/tmorillon/William-bot)** 🔒 - Youth Educational AI tool
+- **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
+- **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
 
 
 ### 🛠️ Infrastructure & DevOps
 
-- **Raspberry Pi Deployment** 🔒 - Self-hosted services and home lab configuration
+- **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 
 
 ### 💡 About
