@@ -12,6 +12,7 @@
 ### 📊 Quantitative Finance
 
 - **Farsight Digital Labs** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
+- **[Polymarket Insider Tracker](https://github.com/tmorillon/Polymarket-insider-tracker)** 🔒 - Prediction market whale tracking dashboard. Monitor top wallets and positions to identify insider patterns.
 
 
 ### 🤖 AI Projects
