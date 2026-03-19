@@ -22,6 +22,11 @@
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
 
 
+### 📊 Data & Analytics
+
+- **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - Comprehensive NFL draft analytics platform with 23,000+ players (1980-2026). Combine metrics, PFF grades, prospect rankings, and interactive mock draft simulator.
+
+
 ### 🛠️ Infrastructure & DevOps
 
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
