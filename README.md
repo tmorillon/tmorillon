@@ -24,7 +24,7 @@
 
 ### 📊 Data & Analytics
 
-- **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - Comprehensive NFL draft analytics platform with 23,000+ players (1980-2026). Combine metrics, PFF grades, prospect rankings, and interactive mock draft simulator.
+- **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - Historical NFL draft analytics with 23,000+ player records (1980-2026). Aggregates combine metrics, PFF college grades, and prospect rankings from multiple sources. Includes position-specific athletic percentiles and grade history for prospect evaluation.
 
 
 ### 🛠️ Infrastructure & DevOps
