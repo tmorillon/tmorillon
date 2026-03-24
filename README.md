@@ -22,6 +22,11 @@
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
 
 
+### 🧠 Second Brain
+
+- **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS powered by Obsidian + Claude Code. Research notes, project context, and session logs that agents can read and write to.
+
+
 ### 📊 Data & Analytics
 
 - **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - NFL analytics platform with 23,000+ player records (1980-2026). Aggregates combine metrics, PFF grades, and prospect rankings. Position-specific athletic percentiles and multi-year grade history.
