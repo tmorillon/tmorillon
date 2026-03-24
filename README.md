@@ -1,7 +1,7 @@
 # Hi, I'm Dr. Thibaut Morillon 👋
 
 
-## Finance Professor | Developer | Quantitative Systems & AI Applications 
+## Finance Professor | Developer | Quantitative Systems & AI Applications
 
 ### 🌐 Web & Portfolio
 
@@ -11,25 +11,20 @@
 
 ### 📊 Quantitative Finance
 
-- **[Farsight Digital Labs](https://github.com/tmorillon/FarSight-Digital-core)** 🔒 - Proprietary hedge fund trading infrastructure and multi-pillar portfolio management dashboard
-- **[Polymarket Insider Tracker](https://github.com/tmorillon/Polymarket-insider-tracker)** 🔒 - Prediction market whale tracking dashboard. Monitor top wallets and positions to identify insider patterns.
+- **[Farsight Digital Labs](https://github.com/tmorillon/FarSight-Digital-core)** 🔒 - Proprietary hedge fund trading infrastructure and portfolio management system
+- **[Polymarket Intelligence](https://github.com/tmorillon/Polymarket-insider-tracker)** 🔒 - Prediction market analytics platform
 
 
 ### 🤖 AI Projects
 
-- **[AI for Kids](https://github.com/tmorillon/William-bot)** 🔒 - Youth Educational AI tool
+- **[AI for Kids](https://github.com/tmorillon/William-bot)** 🔒 - Youth educational AI platform
 - **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
 
 
-### 🧠 Second Brain
-
-- **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS powered by Obsidian + Claude Code. Research notes, project context, and session logs that agents can read and write to.
-
-
 ### 📊 Data & Analytics
 
-- **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - NFL analytics platform with 23,000+ player records (1980-2026). Aggregates combine metrics, PFF grades, and prospect rankings. Position-specific athletic percentiles and multi-year grade history.
+- **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - NFL analytics platform with 23,000+ player records (1980-2026). Proprietary prospect analytics with mock draft and big board applications.
 
 
 ### 🛠️ Infrastructure & DevOps
@@ -37,9 +32,14 @@
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 
 
+### 🧠 Second Brain
+
+- **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS powered by Obsidian + Claude Code
+
+
 ### 💡 About
 
-I develop AI-powered tools and quantitative systems. My projects span trading infrastructure, education technology, and self-hosted deployments. 
+I develop AI-powered tools and quantitative systems. My projects span trading infrastructure, education technology, and self-hosted deployments.
 
 ---
 📫 **Connect:** [Email](mailto:tmorillon@elon.edu) | [LinkedIn](https://www.linkedin.com/in/thibaut-morillon-60374946/) <br>
