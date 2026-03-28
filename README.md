@@ -17,6 +17,7 @@
 
 ### 🤖 AI Projects
 
+- **[AI Intel Agent](https://github.com/tmorillon/AI-Intel-Agent)** 🔒 - Automated Twitter/AI news filter with relevance scoring, Claude-powered summarization, SQLite archiving, and iMessage alerts
 - **[AI for Kids](https://github.com/tmorillon/William-bot)** 🔒 - Youth educational AI platform
 - **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
