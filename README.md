@@ -25,7 +25,7 @@
 
 ### 📊 Data & Analytics
 
-- **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - NFL analytics platform with 23,000+ player records (1980-2026). Proprietary prospect analytics with mock draft and big board applications.
+- **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - NFL analytics platform with 23,000+ player records (1980-2026). Proprietary prospect analytics, mock draft and big board applications.
 
 
 ### 🛠️ Infrastructure & DevOps
