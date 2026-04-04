@@ -35,7 +35,7 @@
 
 ### 🧠 Second Brain
 
-- **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS powered by Obsidian + Claude Code
+- **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS
 
 
 ### 💡 About
