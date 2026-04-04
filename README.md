@@ -17,8 +17,8 @@
 
 ### 🤖 AI Projects
 
-- **[AI Intel Agent](https://github.com/tmorillon/AI-Intel-Agent)** 🔒 - Automated AI news filter with relevance scoring, summarization, archiving, and iMessage alerts
 - **[AI for Kids](https://github.com/tmorillon/William-bot)** 🔒 - Youth educational AI platform
+- **[AI Intel Agent](https://github.com/tmorillon/AI-Intel-Agent)** 🔒 - Automated AI news filter with relevance scoring, summarization, archiving, and iMessage alerts
 - **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
 
@@ -30,8 +30,8 @@
 
 ### 🛠️ Infrastructure & DevOps
 
-- **[Resume-creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
+- **[Resume-creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
 
 
 ### 🧠 Second Brain
