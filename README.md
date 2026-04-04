@@ -30,6 +30,7 @@
 
 ### 🛠️ Infrastructure & DevOps
 
+- **[Resume-creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 
 
