@@ -19,6 +19,7 @@
 
 - **[AI for Kids](https://github.com/tmorillon/William-bot)** 🔒 - Youth educational AI platform
 - **[AI Intel Agent](https://github.com/tmorillon/AI-Intel-Agent)** 🔒 - Automated AI news filter with relevance scoring, summarization, archiving, and iMessage alerts
+- **[AI Research Agent](https://github.com/tmorillon/AI-Research-Agent)** 🔒 - Ingests academic papers, generates structured summaries, builds knowledge maps in Obsidian
 - **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
 
