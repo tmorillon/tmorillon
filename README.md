@@ -43,7 +43,7 @@
 
 ### 💡 About
 
-I develop AI-powered tools and quantitative systems. My projects span trading infrastructure, education technology, and self-hosted deployments.
+I develop AI-powered tools and quantitative systems. My projects span systems, trading infrastructure, data analytics, education technology, and self-hosted deployments.
 
 ---
 📫 **Connect:** [Email](mailto:tmorillon@elon.edu) | [LinkedIn](https://www.linkedin.com/in/thibaut-morillon-60374946/) <br>
