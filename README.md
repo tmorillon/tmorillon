@@ -33,7 +33,7 @@
 
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 - **[Resume creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
-- **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - Monthly system health scanner across all machines -- inventories services, repos, ports, and disk
+- **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - System health scanner across all connected devices
 
 
 ### 🧠 Second Brain
