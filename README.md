@@ -39,7 +39,7 @@
 ### 🧠 Second Brain
 
 - **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS
-- **[The Board](https://github.com/tmorillon/The-Board)** 🔒 - Multi-persona advisory council for high-stakes decisions via Claude Code
+- **[The Board](https://github.com/tmorillon/The-Board)** 🔒 - Board of advisors for high-stakes decisions via Claude Code
 
 
 ### 💡 About
