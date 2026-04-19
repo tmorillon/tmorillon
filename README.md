@@ -31,6 +31,7 @@
 
 ### 🛠️ Infrastructure & DevOps
 
+- **[Music Equalizer](https://github.com/tmorillon/Music-equalizer)** 🔒 - CLI loudness normalizer for iTunes library using two-pass LUFS targeting
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 - **[Resume creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
 - **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - System health scanner across all connected devices
