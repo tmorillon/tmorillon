@@ -35,16 +35,16 @@
 - **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - System health scanner across all connected devices
 
 
-### 🧰 Utilities
-
-- **[Music Equalizer](https://github.com/tmorillon/Music-equalizer)** 🔒 - CLI loudness normalizer for iTunes library using two-pass LUFS targeting
-- **[Resume Creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
-
-
 ### 🧠 Second Brain
 
 - **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS
 - **[The Board](https://github.com/tmorillon/The-Board)** 🔒 - Board of advisors for high-stakes decisions via Claude Code
+
+
+### 🧰 Utilities
+
+- **[Music Equalizer](https://github.com/tmorillon/Music-equalizer)** 🔒 - CLI loudness normalizer for iTunes library using two-pass LUFS targeting
+- **[Resume Creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
 
 
 ### 💡 About
