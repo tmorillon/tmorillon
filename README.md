@@ -31,7 +31,7 @@
 
 ### 🛠️ Infrastructure & DevOps
 
-- **[Airlift](https://github.com/tmorillon/Airlift)** 🔒 - Config-driven multi-machine backup to Google Drive with web GUI
+- **[Airlift](https://github.com/tmorillon/Airlift)** 🔒 - Config-driven multi-machine backup to Google Drive with app GUI
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 - **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - System health scanner across all connected devices
 
