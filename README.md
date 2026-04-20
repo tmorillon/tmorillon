@@ -44,7 +44,7 @@
 
 ### 🧰 Utilities
 
-- **[Music Equalizer](https://github.com/tmorillon/Music-equalizer)** 🔒 - CLI loudness normalizer for iTunes library using two-pass LUFS targeting
+- **[Equalizer](https://github.com/tmorillon/Music-equalizer)** 🔒 - Native macOS app that scans and normalizes iTunes library loudness
 - **[Resume Creator](https://github.com/tmorillon/Resume-creator)** 🔒 - Automated CV pipeline - builds, styles, and deploys academic and industry resumes
 
 
