@@ -13,6 +13,7 @@
 
 - **[Farsight Digital Labs](https://github.com/tmorillon/FarSight-Digital-core)** 🔒 - Proprietary hedge fund trading infrastructure and portfolio management system
 - **[Polymarket Intelligence](https://github.com/tmorillon/Polymarket-insider-tracker)** 🔒 - Prediction market analytics platform
+- **[Research Stack](https://github.com/tmorillon/Research-stack)** 🔒 - Research workbench for finance papers: organizes literature, data, and testing while the author keeps editorial control
 
 
 ### 🤖 AI Projects
@@ -22,7 +23,6 @@
 - **[AI Research Agent](https://github.com/tmorillon/AI-Research-Agent)** 🔒 - Ingests academic papers, generates structured summaries, builds knowledge maps in Obsidian
 - **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
-- **[Research Stack](https://github.com/tmorillon/Research-stack)** 🔒 - Drives finance papers from idea and literature gap to tested, drafted manuscript
 
 
 ### 📊 Data & Analytics
