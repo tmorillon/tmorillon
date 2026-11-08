@@ -39,6 +39,8 @@
 ### 🛠️ Infrastructure & DevOps
 
 - **[Airlift](https://github.com/tmorillon/Airlift)** 🔒 - Config-driven multi-machine backup to Google Drive with app GUI
+- **[FatLine](https://github.com/tmorillon/FatLine)** 🔒 - Self-hosted, invite-only chat and video calls for family and friends, with native phone and desktop apps
+- **[Harness Patrol](https://github.com/tmorillon/Harness-Patrol)** 🔒 - Keeps the AI coding setup coherent across machines: config sync, rule audits, exposure checks, version watch
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 - **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - System health scanner across all connected devices
 
@@ -47,6 +49,7 @@
 
 - **[Obsidian Vault](https://github.com/tmorillon/Obsidian)** 🔒 - Personal knowledge OS
 - **[The Board](https://github.com/tmorillon/The-Board)** 🔒 - Board of advisors for high-stakes decisions via Claude Code
+- **[VEGA](https://github.com/tmorillon/VEGA)** 🔒 - Personal control plane: 3D graph of the knowledge vault and a hub over self-hosted apps
 
 
 ### 🧰 Utilities
