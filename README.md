@@ -21,8 +21,14 @@
 - **[AI for Kids](https://github.com/tmorillon/William-bot)** 🔒 - Safe AI chat for kids with content guardrails, parental controls, games, and voice
 - **[AI Intel Agent](https://github.com/tmorillon/AI-Intel-Agent)** 🔒 - Automated AI news filter with relevance scoring, summarization, archiving, and iMessage alerts
 - **[AI Research Agent](https://github.com/tmorillon/AI-Research-Agent)** 🔒 - Ingests academic papers, generates structured summaries, builds knowledge maps in Obsidian
-- **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
 - **[NightWatch Agent](https://github.com/tmorillon/Superfat-nightwatch)** 🔒 - Moltbook agent for agent community discussions
+
+
+### 🎓 Teaching & Education
+
+- **[Alpha Grader](https://github.com/tmorillon/Grading-agent)** 🔒 - Automated grading system for finance courses
+- **[Hot Seat](https://github.com/tmorillon/HotSeat)** 🔒 - AI case simulations for finance courses: students argue a side of a real deal, graded on judgment
+- **[Scheduler](https://github.com/tmorillon/Scheduler)** 🔒 - Department course-scheduling board with preference-driven auto-draft and passwordless magic-link access
 
 
 ### 📊 Data & Analytics
