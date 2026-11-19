@@ -39,6 +39,7 @@
 ### 🛠️ Infrastructure & DevOps
 
 - **[Airlift](https://github.com/tmorillon/Airlift)** 🔒 - Config-driven multi-machine backup to Google Drive with app GUI
+- **[Blacklight](https://github.com/tmorillon/Blacklight)** 🔒 - Finds hidden AI instructions in documents and leaked API keys in code and live websites
 - **[FatLine](https://github.com/tmorillon/FatLine)** 🔒 - Self-hosted, invite-only chat and video calls for family and friends, with native phone and desktop apps
 - **[Harness Patrol](https://github.com/tmorillon/Harness-Patrol)** 🔒 - Keeps the AI coding setup coherent across machines: config sync, rule audits, exposure checks, version watch
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
