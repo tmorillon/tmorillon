@@ -36,7 +36,7 @@
 - **[NFL Analytics](https://github.com/tmorillon/NFL-analytics)** 🔒 - NFL analytics platform with 23,000+ player records (1980-2026). Proprietary prospect analytics, mock draft and big board applications.
 
 
-### 🛠️ Infrastructure & DevOps
+### 🛠️ Infrastructure, Systems & Security
 
 - **[Airlift](https://github.com/tmorillon/Airlift)** 🔒 - Config-driven multi-machine backup to Google Drive with app GUI
 - **[Black Box](https://github.com/tmorillon/Black-Box)** 🔒 - Keeps personal identities sealed away from the software and services that process sensitive records
