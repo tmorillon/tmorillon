@@ -45,6 +45,7 @@
 - **[Harness Patrol](https://github.com/tmorillon/Harness-Patrol)** 🔒 - Keeps the AI coding setup coherent across machines: config sync, rule audits, exposure checks, version watch
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 - **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - System health scanner across all connected devices
+- **[Tripwire](https://github.com/tmorillon/Tripwire)** 🔒 - Early-warning safety measures across machines and accounts
 
 
 ### 🧠 Second Brain
