@@ -5,7 +5,7 @@
 
 ### 🌐 Web & Portfolio
 
-- **[Personal Website](https://tmorillon.github.io)**
+- **[Personal Website](https://thibautmorillon.com)**
 - **[University Profile](https://www.elon.edu/u/directory/profile/tmorillon/)**
 
 
@@ -42,7 +42,7 @@
 - **[Black Box](https://github.com/tmorillon/Black-Box)** 🔒 - Keeps personal identities sealed away from the software and services that process sensitive records
 - **[Blacklight](https://github.com/tmorillon/Blacklight)** 🔒 - Automated safety checks across files, code and the web
 - **[FatLine](https://github.com/tmorillon/FatLine)** 🔒 - Self-hosted, invite-only chat and video calls for family and friends, with native phone and desktop apps
-- **[Harness Patrol](https://github.com/tmorillon/Harness-Patrol)** 🔒 - Keeps the AI coding setup coherent across machines: config sync, rule audits, exposure checks, version watch
+- **[Harness Ranger](https://github.com/tmorillon/Harness-Ranger)** 🔒 - Keeps the AI coding setup coherent across machines: config sync, rule audits, exposure checks, version watch
 - **[Raspberry Pi Deployment](https://github.com/tmorillon/Raspberry-pi4)** 🔒 - Self-hosted services and home lab configuration
 - **[Spyglass](https://github.com/tmorillon/Spyglass)** 🔒 - System health scanner across all connected devices
 - **[Tripwire](https://github.com/tmorillon/Tripwire)** 🔒 - Early-warning safety measures across machines and accounts
